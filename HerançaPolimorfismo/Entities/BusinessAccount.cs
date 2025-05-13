@@ -12,7 +12,8 @@ namespace Herança.Entities
         public BusinessAccount()
         {
         }
-        public BusinessAccount(int number, string holder, double balance, double loanLimit) : base(number, holder, balance)
+        public BusinessAccount(int number, string holder, double balance, double loanLimit) 
+            : base(number, holder, balance)
         {
             LoanLimit = loanLimit;
         }
