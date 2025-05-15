@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Herança.Entities
+namespace Upcasting_Downcasting.Entities
 {
     internal class BusinessAccount : Account
     {
