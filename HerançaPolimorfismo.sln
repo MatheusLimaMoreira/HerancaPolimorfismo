@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Upcasting&Downcasting", "Up
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sobreposicao_Virtuan&Overide", "Sobreposicao_Virtuan&Overide\Sobreposicao_Virtuan&Overide.csproj", "{257CE16D-FCCA-40AE-BE7F-95814D2ED0A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioResolvido", "ExercicioResolvido\ExercicioResolvido.csproj", "{7989D033-2AC0-4F27-B2FA-0903D17766AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{257CE16D-FCCA-40AE-BE7F-95814D2ED0A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{257CE16D-FCCA-40AE-BE7F-95814D2ED0A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{257CE16D-FCCA-40AE-BE7F-95814D2ED0A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7989D033-2AC0-4F27-B2FA-0903D17766AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7989D033-2AC0-4F27-B2FA-0903D17766AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7989D033-2AC0-4F27-B2FA-0903D17766AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7989D033-2AC0-4F27-B2FA-0903D17766AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
