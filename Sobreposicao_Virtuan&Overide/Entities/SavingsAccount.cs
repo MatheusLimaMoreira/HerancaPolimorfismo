@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Sobreposicao_Virtuan_Overide.Entities
 {
-    internal class SavingsAccount : Account
+    sealed class SavingsAccount : Account // Evita que a classe seja herdada.
 
     {
         public double InterestRate { get; set; }
@@ -33,10 +33,11 @@ namespace Sobreposicao_Virtuan_Overide.Entities
         }
         */
 
-        public override void withdraw(double amount)
+        public sealed override void withdraw(double amount) // Evita que o metodo seja sobrescrito em uma subclasse.
         {
             base.withdraw(amount);
             Balance -= 2.0; // Overriding the base class method to add an additional fee
         }
     }
 }
+ 
