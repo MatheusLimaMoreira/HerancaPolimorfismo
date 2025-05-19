@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasseMetodosAbstrata", "Cl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioResolvidoMetodosAbstratos", "ExercicioResolvidoMetodosAbstratos\ExercicioResolvidoMetodosAbstratos.csproj", "{C8764E46-9907-4DB1-A2BD-D10F0B5E2670}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioFixacai02", "ExercicioFixacai02\ExercicioFixacai02.csproj", "{2C7823D8-15AB-4A5F-BCF0-1FD399AA3BA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{C8764E46-9907-4DB1-A2BD-D10F0B5E2670}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8764E46-9907-4DB1-A2BD-D10F0B5E2670}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8764E46-9907-4DB1-A2BD-D10F0B5E2670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C7823D8-15AB-4A5F-BCF0-1FD399AA3BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7823D8-15AB-4A5F-BCF0-1FD399AA3BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7823D8-15AB-4A5F-BCF0-1FD399AA3BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7823D8-15AB-4A5F-BCF0-1FD399AA3BA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
